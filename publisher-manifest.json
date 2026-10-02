@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9a204710234c5ce849f03ed1",
+  "owner": "mumdvvmp",
+  "repo": "page-1349f23155129d702ed618e5",
+  "title": "Shadowfly",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1349f23155129d702ed618e5",
+      "a": "Shadowfly",
+      "b": "",
+      "entity": "Shadowfly",
+      "brand": "Shadowfly",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9b1c7c1a3cfbb665ff861571fc31a27053ebce93fd5de41eed97107b7c186abe",
+      "content": {
+        "keyword1": "Shadowfly",
+        "keyword2": "",
+        "primary_entity": "Shadowfly",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Shadowfly 提供稳定高速的VPN梯子与机场订阅服务，官方网站支持多端客户端下载，套餐覆盖基础到团队需求，节点优质并面向流媒体与游戏加速。",
+          "AI_DESCRIPTION": "Shadowfly 提供稳定高速的VPN梯子与机场订阅服务，官方网站支持多端客户端下载，套餐覆盖基础到团队需求，节点优质并面向流媒体与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f0eef4;color:#1c1c28;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#5a3d9e;text-decoration:none}header{background:#5a3d9e;color:#fff;padding:0.9rem 1rem}header .brand{font-weight:700;font-size:1.15rem;margin-bottom:0.5rem}header nav{display:flex;flex-wrap:wrap;gap:0.55rem 0.9rem}header nav a{color:#f3edff;font-size:0.92rem}main{max-width:760px;margin:0 auto;padding:0 1rem 2rem}h1{font-size:1.85rem;color:#3d2a6e;margin:1.4rem 0 0.4rem}h2{font-size:1.32rem;color:#5a3d9e;margin:1.8rem 0 0.75rem;padding-bottom:0.28rem;border-bottom:2px solid #d4c8ef}h3{font-size:1.08rem;color:#3d2a6e;margin:1rem 0 0.4rem}.lead{font-size:1.02rem;color:#333}.panel{background:#fff;border:1px solid #e0d8f0;border-radius:10px;padding:1rem 1.05rem;margin:0.8rem 0}.plan{background:#fff;border:1px solid #ddd4ee;border-radius:10px;padding:1.05rem 1.1rem;margin:0.85rem 0}.plan.featured{border:2px solid #5a3d9e;background:#f7f2ff}.price{font-size:1.25rem;font-weight:700;color:#5a3d9e}.muted{color:#555;font-size:0.95rem}.list{margin:0.4rem 0 0;padding-left:1.15rem}.stagger{margin:1rem 0}.client-box{background:#efe8ff;border:1px solid #c9b6f0;border-radius:10px;padding:1.05rem 1.1rem;margin:1rem 0}details{background:#fff;border:1px solid #e0d8f0;border-radius:8px;padding:0.55rem 0.8rem;margin:0.55rem 0}summary{font-weight:650;color:#5a3d9e}footer{background:#3d2a6e;color:#eee;padding:1.4rem 1rem;font-size:0.92rem}footer a{color:#d9ccf5}footer .block{margin:0.8rem 0}.ad{background:#efe8ff;border:1px dashed #5a3d9e;border-radius:8px;padding:0.9rem;margin:1.1rem 0;text-align:center}.friends{display:flex;flex-wrap:wrap;gap:0.55rem 0.9rem;padding:0;margin:0.4rem 0;list-style:none}.map a{margin-right:0.7rem}@media(min-width:680px){.stagger{display:flex;gap:1.2rem}.stagger>div{flex:1}.stagger.reverse{flex-direction:row-reverse}.align-end{text-align:right}}</style><header><div class=\"brand\">Shadowfly 官网</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">说明</a><a href=\"#nodes\">节点</a><a href=\"#faq\">问答</a><a href=\"#download\">下载</a><a href=\"#sitemap\">地图</a></nav></header><main><h1>Shadowfly</h1><p class=\"lead\">Shadowfly 官方网站提供高速 VPN 梯子、机场订阅与多端客户端下载，面向流媒体解锁、游戏加速和稳定跨境访问。</p><section id=\"intro\"><h2>品牌简介</h2><p>Shadowfly 是面向个人与团队的网络加速与机场订阅服务。我们把线路质量、客户端易用性和套餐透明度放在同一优先级：用户可以按流量与设备数选择方案，再在官方渠道下载客户端并导入订阅。Shadowfly 不 bundling 来源不明的安装包，所有说明与下载入口都集中在本站，便于核对官方身份。</p><p>服务覆盖日常浏览、国际流媒体、远程协作和游戏加速。基础线路适合常规访问，旗舰与团队方案提供更完整的原生解锁和专线优化。订阅按月或按年，流量在对应周期内使用，设备同时在线数量与套餐绑定，避免共享混乱。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"stagger\"><div><h3>流媒体与内容访问</h3><p>观看海外剧集、纪录片和公开课时常需要稳定出口。Shadowfly 旗舰版与团队版强调全节点原生流媒体解锁，基础版覆盖常用平台的基础解锁，适合轻度观看。</p></div><div class=\"align-end\"><h3>游戏与实时通信</h3><p>对延迟敏感的对局、语音和会议可走 IPLC 专线优化节点。旗舰版面向个人玩家与创作者，团队版则给多成员同时在线预留带宽余量。</p></div></div><div class=\"stagger reverse\"><div><h3>出差与多设备</h3><p>同一订阅可在电脑、手机和平板间切换。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，适合家庭或小型工作室。</p></div><div class=\"align-end\"><h3>研究与跨境办公</h3><p>访问文献、代码托管和协作文档时，稳定比极限带宽更重要。普通线路节点池用于日常，VIP 高带宽节点留给关键时段。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为 Shadowfly 当前展示套餐，便于对照流量、设备和线路能力。按年付可降低月均成本。开通、续费与发票以官方账户内页为准。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul class=\"list\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul class=\"list\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul class=\"list\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"clients\"><h2>客户端选择</h2><p>Shadowfly 的使用体验很大程度取决于客户端是否匹配系统和协议。请优先在本页下载区获取说明，再导入机场订阅。不同系统可并存，只要不超过套餐同时在线数。</p><div class=\"client-box\"><h3>按系统挑选</h3><p><strong>Windows：</strong>推荐兼容 Clash 核心的图形客户端，支持规则分流、系统代理和订阅更新。适合桌面办公与游戏加速。</p><p><strong>macOS：</strong>可使用菜单栏客户端管理节点与规则，导入 Shadowfly 订阅后按地区或延迟排序。</p><p><strong>Android：</strong>建议 Clash Meta 系客户端，支持分应用代理，避免把国内应用全部走代理。</p><p><strong>iOS：</strong>常用 Shadowrocket、Stash 等，从官方商店安装后再填入订阅链接。系统对后台保活较严，建议按客户端文档开启相应权限。</p><p><strong>Linux 与路由：</strong>命令行或 OpenWrt 插件可托管订阅，适合常开网关。团队版定制路由可在此场景发挥作用。</p><p><a href=\"#download\">前往官方下载与身份说明</a></p></div><div class=\"panel\"><h3>订阅导入要点</h3><p>复制 Shadowfly 机场订阅地址，在客户端选择“从 URL 更新”。首次连接先选延迟较低的普通节点测试，再按需要切换 IPLC 或流媒体专用出口。更新订阅不要混用过期链接。</p></div></section><section id=\"guide\"><h2>操作说明</h2><h3>1. 确认需求并对照套餐</h3><p>估算月流量、同时在线设备和是否需要原生解锁或游戏专线。轻度浏览可选基础版；日常 4K 与游戏更适合旗舰版；多人共享选团队版。</p><h3>2. 在官网开通并保存订阅</h3><p>通过 Shadowfly 官方账户完成开通后，进入订阅管理复制链接。不要把链接发到公开群组，泄露会导致流量被占用。</p><h3>3. 下载对应客户端</h3><p>仅使用本站列出的客户端方向。安装完成后关闭来历不明的系统代理插件，避免规则冲突。</p><h3>4. 导入、分流与连接</h3><p>导入订阅，开启规则模式（国内直连、国外代理）。选择节点后做一次网页与视频连通测试，再用于会议或对局。</p><h3>5. 日常维护</h3><p>流量接近上限时减少 4K 或更换套餐。客户端提示订阅失败时，回到官网重新复制链接。设备更换时先在旧设备断开。</p></section><section id=\"nodes\"><h2>节点与性能</h2><p>Shadowfly 节点池包含普通线路与专线。普通线路覆盖主要地区，适合网页、消息和常规视频；IPLC 专线用于对延迟和抖动更敏感的游戏与通话。旗舰版强调全节点原生流媒体解锁，团队版额外提供 VIP 高带宽节点和可定制路由。</p><p>性能体验受本地宽带、运营商高峰和目标站点策略影响。建议在客户端查看延迟与丢包，而不是只看单一测速数字。晚高峰优先选择负载较低的节点；下载大文件时注意套餐流量计量方式为实际代理流量。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Shadowfly 是 VPN 还是机场订阅？</summary><p>Shadowfly 以机场订阅方式提供多节点、可切换的网络加速，同时支持常见 VPN/代理客户端。用户得到的是订阅链接与节点池，而不是单一固定出口，因此更适合按场景切换流媒体、游戏或办公线路。</p></details><details><summary>如何从官网下载客户端才算安全？</summary><p>只通过 Shadowfly 官方网站的客户端说明进入下载方向，核对本页品牌名与套餐描述。不要使用来路不明的“破解客户端”或第三方打包安装器，以免订阅被窃取或设备被植入无关软件。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>基础版每月 100GB、3 台设备，适合轻度解锁和日常访问。旗舰版 300GB、5 台设备，含原生解锁、IPLC 游戏优化和优先工单，是个人主力方案。团队版 1000GB、20 台设备，带 VIP 节点、定制路由和客户经理，面向工作室或家庭共享。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>当月流量耗尽后新连接会受限，可等待重置或升级。同时在线超过套餐台数时，新设备可能无法握手。建议在客户端查看已连接会话，不用的设备及时断开。</p></details><details><summary>是否保证所有流媒体和游戏都解锁？</summary><p>旗舰与团队方案面向全节点原生流媒体解锁，并对游戏走专线优化，但平台风控会变化。若某站暂时失败，可更换同区域节点或稍后重试。基础版仅承诺基础解锁，不把全平台原生作为目标。</p></details><details><summary>订阅链接泄露了怎么办？</summary><p>立刻在官网账户重置订阅或重新生成链接，并检查近期流量是否异常。重置后旧链接失效，需要在所有客户端重新导入。不要把截图连同完整 URL 发到社交平台。</p></details></section><section id=\"download\"><h2>官方下载与身份说明</h2><p>Shadowfly 官方网站是套餐说明与客户端指引的唯一入口。下载前请确认页面中的品牌名、套餐价格与功能描述与本页一致。Windows、macOS、Android、iOS 及网关端均以订阅导入为主，不提供来源不明的修改版。</p><div class=\"panel\"><p><a href=\"#clients\">Windows 客户端说明</a> · <a href=\"#clients\">macOS 客户端说明</a> · <a href=\"#clients\">Android 客户端说明</a> · <a href=\"#clients\">iOS 客户端说明</a> · <a href=\"#guide\">导入步骤</a></p><p>若安装后无法更新订阅，先核对系统时间、本地防火墙以及是否混用了其他系统代理。仍失败时通过旗舰或团队工单通道反馈客户端版本与报错原文。</p></div></section><div class=\"ad\" id=\"ads\">广告位：Shadowfly 欢迎网络工具、内容站点与硬件周边洽谈文字合作。推广内容与套餐、客户端下载主题相关，不放置跳转不明的外部资源。</div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"block\" id=\"sitemap\"><strong>网站地图</strong><div class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">节点性能</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a><a href=\"#ads\">广告合作</a><a href=\"#friends\">友情链接</a></div></div><div class=\"block\" id=\"friends\"><strong>友情链接</strong><ul class=\"friends\"><li><a href=\"#clients\">客户端中心</a></li><li><a href=\"#plans\">套餐对照</a></li><li><a href=\"#faq\">帮助问答</a></li><li><a href=\"#download\">官网下载</a></li><li><a href=\"#guide\">上手说明</a></li></ul></div><div class=\"block\">Shadowfly 官方网站 · 高速 VPN 梯子与机场订阅客户端下载。内容供阅读与对照套餐，实际开通以账户内条款为准。</div></footer>",
+          "hash": "530d04bb8986195fdaad4bd279b3d26e6c5afda0dd1ededf89a8da95907f22d2",
+          "seo": {
+            "title": "Shadowfly 官方网站｜高速VPN梯子加速器与机场订阅客户端下载",
+            "keywords": "Shadowfly,Shadowfly VPN,Shadowfly机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,流媒体解锁",
+            "description": "Shadowfly 提供稳定高速的VPN梯子与机场订阅服务，官方网站支持多端客户端下载，套餐覆盖基础到团队需求，节点优质并面向流媒体与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qgycbmy.cn",
+    "host": "p-e2771d3932.qgycbmy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "qgycbmy.cn",
+      "url": "https://qgycbmy.cn/",
+      "label": "fnf",
+      "apex": "qgycbmy.cn",
+      "kind": null,
+      "identity": "kbxmsy/page-4f52956c230e3b518b1d6b69"
+    },
+    {
+      "host": "rymfg.cn",
+      "url": "https://rymfg.cn/",
+      "label": "Shadowfly",
+      "apex": "rymfg.cn",
+      "kind": null,
+      "identity": "yxqcax/page-a9b5e8d302d92a2e91f585c8"
+    },
+    {
+      "host": "wabuj.cn",
+      "url": "https://wabuj.cn/",
+      "label": "Shadowfly",
+      "apex": "wabuj.cn",
+      "kind": null,
+      "identity": "yrpbpx/page-537eb2f69dd4bfe67b42450f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "250a387b58802b329aa5e7baa6bf9703ba1bc2202646a014ec57e24168d7efce",
+    "sitemap.xml": "16b5506c19386ec5e55bb2ec59922d44bcd18f4dc5646740bfc232a376d40103",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ccdd43f702ef1224304dda810126ed909a7d947ab22c1de3ad3933edb63c6475",
+    "robots.txt": "1f6bd8df0c6daacade82d1263e01f7241db1a25199123097181e118998fab4e4",
+    "0d34ef21cf1bc8be9718ee25cb77a985.txt": "8531beb3bd0c483f2ae621877c245c12276247b19bb6bb0df15b3d77f1d30d14"
+  },
+  "revision": "3bd356ae145f4178c3ac695aeea5cfd756cea8657c7f7fac63620b209661a235"
+}
